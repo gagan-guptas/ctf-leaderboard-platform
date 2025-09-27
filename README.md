@@ -55,13 +55,7 @@
 
 `/backEnd`
 - Run `npm install` to install the requirements from `package.json`, then run `npm start` to start & setup the backend
-
-`/dockerAPI`
-- Run `npm install` to install the requirements from `package.json`, then run `npm start` to start & setup the backend
-
-`/discordBot`
-- This is optional, but can be used to setup a bot for the CTF. See here: https://github.com/CTF-Cafe/CTF_Cafe/tree/master/discordBot
-
+- 
 *You can use `pm2` if you want an easy way to handle the nodejs processes.*
 
 Make sure to create a new account, promote him to admin and delete the admin:admin user after setup!
