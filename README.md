@@ -1,13 +1,8 @@
-Currently working on v2...
-Updates : soon
-
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/ctfcafe/ctfcafe)
 
 # Contributors
 
-[@Zerotistic]( https://github.com/Zerotistic )
-[@Eteckq]( https://github.com/Eteckq )
-
+[@Zerotistic]( https://github.com/gagan-guptas)
 
 # Features
 
