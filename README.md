@@ -2,7 +2,7 @@
 
 # Contributors
 
-[@Zerotistic]( https://github.com/gagan-guptas)
+[@gagan-guptas]( https://github.com/gagan-guptas)
 
 # Features
 
